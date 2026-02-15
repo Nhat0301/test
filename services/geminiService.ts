@@ -379,4 +379,3 @@ Assistant:
   return await callGemini(fullPrompt);
 
 };
-
